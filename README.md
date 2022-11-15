@@ -3,7 +3,14 @@ this project for making analysis on Sales data get from <a href="https://www.kag
 
 ## in this Project: 
 <ul>
-  <li>I used ETL concept to Extract data from Multiple Source and integrate them in on Table using <b>SSIS</b>.</li>
-  <li>Explored, Cleaned, and Analyzed Data using <b>SQL Server</b></li>
-  <li>Visualize data using <b>Power BI</b></li>
+  <li>used ETL Concept to Extract data from Multiple Sources and Integrated them into one database table using <b>SSIS</b>.</li>
+  <li>Explored, Cleaned, and Analyzed Data using <b>SQL Server.</b></li>
+  <li>Built an interactive Dashboard using <b>Power BI.</b></li>
+</ul>
+
+## Tools:
+<ul>
+  <li> ETL (SSIS) </li>
+  <li> SQL Server </li>
+  <li> Power BI </li>
 </ul>
